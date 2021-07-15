@@ -8,15 +8,24 @@
 ## Getting started
 ### Installation
 
+Install using npm
+
 ```bash
 npm install guide-tips
 ```
 
-In browser:
+Including files
 
 ```html
 <script src="/dist/guide-tips.min.js"></script>
 ```
+
+Optional use of CDN
+
+```html
+<script src="https://unpkg.com/guide-tips@1.0.5/dist/guide-tips.min.js"></script>
+```
+
 ### Usage
 
 #### Syntax
